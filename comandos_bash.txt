@@ -3,3 +3,4 @@ cd -> move entre diretorios
 pwd -> mostra o diretorio de trabalho
 cat -> exibe conteudo do arquivo
 rm -> remove conteudo do arquivo
+rm - rf -> remove de forma forcada todos os diretorios
